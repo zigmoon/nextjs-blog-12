@@ -7,8 +7,7 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 coverImage: /assets/blog/preview/cover.jpg
 date: 2020-03-16T04:35:00.000Z
 author:
-  name: Joe Haddad
-  picture: /assets/blog/authors/joe.jpeg
+  name: zigmoon
 ogImage:
   url: /assets/blog/preview/cover.jpg
 ---
